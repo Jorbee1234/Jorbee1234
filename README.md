@@ -1,7 +1,7 @@
-- 👋 Oi, eu sou Jorbe tenho 22 anos e estou atualmente no 6° periodo da faculdade de Sistema de informação .
-- 👀 Atualmente estou usando o Github para salvar projetos feitos na aula e alguns que eu fiz .
-- 🌱 Possuo um conhecimento intermediário em C, HTML e Css além de conhecimento Básico em Java,JavaScript,Pyhton,SQL.
-- 💞️ Aprendendo atualmente a linguagem JAVA
+- 👋 Oi, eu sou Jorbe tenho 23 anos e estou atualmente no 8° periodo da faculdade de Sistema de informação .
+- 👀 Atualmente estou usando o Github para salvar projetos que faço por fins de adquirir conhecimento.
+- 🌱 Possuo um conhecimento avançado em orientada a objeto, C# e banco de dados SQL, intermediário em C, HTML e Css além de conhecimento Básico em Java,JavaScript,Pyhton.
+- 💞️ Aprendendo atualmente Angular
 - 📫 Desde já agradeço por entrar no meu perfil
 
 <!---
